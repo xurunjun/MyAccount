@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.myaccount.ui.HomeFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_1"
+        android:name="com.example.myaccount.ui.HistoryFragment"
+        android:label="历史查看"
+        tools:layout="@layout/activity_history" />
+    <fragment
+        android:id="@+id/nav_2"
+        android:name="com.example.myaccount.ui.MonthChartFragment"
+        android:label="分析统计"
+        tools:layout="@layout/activity_month_chart" />
+
+    <fragment
+        android:id="@+id/nav_3"
+        android:name="com.example.myaccount.ui.Fragment3"
+        android:label="分类管理"
+        tools:layout="@layout/fragment_3" />
+
+    <fragment
+        android:id="@+id/nav_4"
+        android:name="com.example.myaccount.ui.AboutFragment"
+        android:label="账户管理"
+        tools:layout="@layout/activity_about" />
+
+    <fragment
+        android:id="@+id/nav_5"
+        android:name="com.example.myaccount.ui.Fragment5"
+        android:label="个人中心"
+        tools:layout="@layout/fragment_5" />
+
+    <fragment
+        android:id="@+id/nav_6"
+        android:name="com.example.myaccount.ui.Fragment6"
+        android:label="立即备份"
+        tools:layout="@layout/fragment_6" />
+    <fragment
+        android:id="@+id/nav_7"
+        android:name="com.example.myaccount.ui.Fragment7"
+        android:label="捐献作者"
+        tools:layout="@layout/fragment_7" />
+    <fragment
+        android:id="@+id/nav_8"
+        android:name="com.example.myaccount.ui.SettingFragment"
+        android:label="设置"
+        tools:layout="@layout/activity_setting" />
+    <fragment
+        android:id="@+id/nav_9"
+        android:name="com.example.myaccount.ui.Fragment9"
+        android:label="反馈与帮助"
+        tools:layout="@layout/fragment_9" />
+</navigation>

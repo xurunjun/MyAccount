@@ -8,12 +8,12 @@
         android:layout_width="match_parent"
         android:layout_height="50dp">
         <ImageView
+            android:visibility="gone"
             android:id="@+id/chart_iv_back"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:src="@mipmap/it_back"
-            android:layout_marginLeft="10dp"
-            android:onClick="onClick"/>
+            android:layout_marginLeft="10dp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -27,8 +27,7 @@
             android:layout_height="match_parent"
             android:src="@mipmap/it_rili"
             android:layout_alignParentRight="true"
-            android:layout_marginRight="10dp"
-            android:onClick="onClick"/>
+            android:layout_marginRight="10dp"/>
     </RelativeLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -76,7 +75,6 @@
             android:background="@drawable/main_recordbtn_bg"
             android:textColor="@color/white"
             android:textStyle="bold"
-            android:onClick="onClick"
             android:layout_marginRight="10dp"/>
         <Button
             android:id="@+id/chart_btn_in"
@@ -86,7 +84,6 @@
             android:background="@drawable/dialog_btn_bg"
             android:textColor="@color/black"
             android:textStyle="bold"
-            android:onClick="onClick"
             android:layout_marginLeft="10dp"/>
     </LinearLayout>
     <androidx.viewpager.widget.ViewPager

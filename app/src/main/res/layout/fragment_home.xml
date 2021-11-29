@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey_f3f3f3">
+
+    <ListView
+        android:id="@+id/main_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/grey_f3f3f3"
+        android:divider="@null"
+        android:dividerHeight="6dp"
+        android:padding="10dp"
+        android:scrollbars="none" />
+
+    <ImageButton
+        android:id="@+id/main_btn_more"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="20dp"
+        android:background="@drawable/main_morebtn_bg"
+        android:src="@mipmap/more"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/main_btn_edit"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@id/main_btn_more"
+        android:layout_toLeftOf="@id/main_btn_more"
+        android:background="@drawable/main_recordbtn_bg"
+        android:drawableLeft="@mipmap/edit"
+        android:gravity="center_vertical"
+        android:text="@string/editone"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+</RelativeLayout>
