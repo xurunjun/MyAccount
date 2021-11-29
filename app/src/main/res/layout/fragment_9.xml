@@ -42,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="感谢你对King的支持！😘"
+        android:text="感谢您对King的支持！😘"
         android:textColor="#0000ff"
         android:textSize="25dp"
         android:textStyle="italic"

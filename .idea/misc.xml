@@ -21,13 +21,14 @@
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/content_main.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/dialog_beizhu.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/dialog_budget.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/dialog_calendar.xml" value="0.25364583333333335" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/dialog_more.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/dialog_time.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_1.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_4.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_5.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_6.xml" value="0.19010416666666666" />
-        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_7.xml" value="0.1" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_7.xml" value="0.536" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_8.xml" value="0.15489130434782608" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_9.xml" value="0.25" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_home.xml" value="0.12864583333333332" />
@@ -40,6 +41,7 @@
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/main_title_bar.xml" value="0.12864583333333332" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/menu/activity_main_drawer.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/menu/main.xml" value="0.25364583333333335" />
       </map>
     </option>
   </component>

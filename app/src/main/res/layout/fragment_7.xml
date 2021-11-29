@@ -4,34 +4,46 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/grey_f3f3f3"
-    android:backgroundTint="@color/black"
+    android:backgroundTint="#ffffff"
     android:gravity="center_horizontal"
     android:orientation="vertical">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:text="作者:  King"
-        android:textColor="#0000ff"
-        android:textSize="25dp"
-        android:textStyle="italic"
-        android:layout_marginTop="30dp"/>
+        android:text="支付宝推荐👇"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp">
+    </TextView>
+
+    <ImageView
+        android:id="@+id/image_view_shop_item1"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/zfb" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:text="代号： 2019053565"
-        android:textColor="#0000ff"
-        android:textSize="25dp"
-        android:textStyle="italic"
-        android:layout_marginTop="30dp"/>
+        android:text="微信推荐👇"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp">
+    </TextView>
 
     <ImageView
-        android:id="@+id/image_view_shop_item"
-        android:layout_width="500px"
-        android:layout_height="500px"
-        android:layout_marginTop="50dp"
-        android:src="@drawable/al" />
+        android:id="@+id/image_view_shop_item2"
+        android:layout_width="325px"
+        android:layout_height="325px"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/wxx" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:layout_marginTop="20dp"
+        android:text="感谢对King的支持!❀❀❀">
+
+    </TextView>
 </LinearLayout>
