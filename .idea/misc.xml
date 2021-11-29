@@ -9,8 +9,21 @@
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/drawable/main_recordbtn_bg.xml" value="0.1" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_about.xml" value="0.12864583333333332" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_history.xml" value="0.12864583333333332" />
-        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_login.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_main.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_modify_pwd.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_month_chart.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_record.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_register.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_search.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_setting.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/app_bar_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/content_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/dialog_beizhu.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/dialog_budget.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/dialog_more.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/dialog_time.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_1.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_4.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_5.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_6.xml" value="0.19010416666666666" />
