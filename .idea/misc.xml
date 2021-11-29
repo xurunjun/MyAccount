@@ -7,8 +7,26 @@
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/drawable/main_morebtn_bg.xml" value="0.1" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/drawable/main_recordbtn_bg.xml" value="0.1" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_about.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_history.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_login.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/activity_main.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_4.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_5.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_6.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_7.xml" value="0.1" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_8.xml" value="0.15489130434782608" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_9.xml" value="0.25" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_home.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/fragment_outcome.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/item_dialogcal_gv.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/item_dialogcal_hsv.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/item_mainlv.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/item_mainlv_top.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/item_recordfrag_gv.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/main_title_bar.xml" value="0.12864583333333332" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
+        <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/menu/activity_main_drawer.xml" value="0.19010416666666666" />
       </map>
     </option>
   </component>

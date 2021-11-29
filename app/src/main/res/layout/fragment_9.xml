@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/grey_f3f3f3"
     android:gravity="center_horizontal"
+    android:backgroundTint="@color/black"
     android:orientation="vertical">
 
     <TextView
@@ -46,4 +47,12 @@
         android:textSize="25dp"
         android:textStyle="italic"
         android:layout_marginTop="30dp"/>
+
+    <ImageView
+        android:id="@+id/image_view_shop_item"
+        android:layout_width="400px"
+        android:layout_height="400px"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/al" />
+
 </LinearLayout>
