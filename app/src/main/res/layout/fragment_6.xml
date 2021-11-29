@@ -5,20 +5,12 @@
     android:gravity="center"
     android:background="@color/grey_f3f3f3">
 
-    <Button
-        android:id="@+id/button_beifen"
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center"
-        android:textSize="30dp"
-        android:text="备份">
-    </Button>
-<!--    <TextView-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_centerInParent="true"-->
-<!--        android:text="备份成功"-->
-<!--        android:textColor="@color/black"-->
-<!--        android:textSize="18sp"-->
-<!--        android:textStyle="bold" />-->
+        android:layout_centerInParent="true"
+        android:text="当你进来的时候，已经备份成功"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
 </RelativeLayout>

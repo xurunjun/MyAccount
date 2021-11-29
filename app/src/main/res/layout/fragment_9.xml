@@ -45,7 +45,6 @@
         android:text="感谢您对King的支持！😘"
         android:textColor="#0000ff"
         android:textSize="25dp"
-        android:textStyle="italic"
         android:layout_marginTop="30dp"/>
 
     <ImageView
