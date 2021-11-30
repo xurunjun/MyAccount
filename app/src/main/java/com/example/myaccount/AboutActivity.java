@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import com.example.myaccount.utils.AnalysisUtils;
 
-
+// 退出登录
 public class AboutActivity extends Activity {
     private TextView et_user_name;//标题
     private ImageView tv_back;

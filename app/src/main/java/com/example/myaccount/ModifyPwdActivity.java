@@ -60,14 +60,14 @@ public class ModifyPwdActivity extends Activity {
             public void onClick(View v) {
                 getEditString();
                 if (TextUtils.isEmpty(originalPsw)) {
-                    Toast.makeText(ModifyPwdActivity.this, "请输入原始密码", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(ModifyPwdActivity.this, "请输入原密码", Toast.LENGTH_SHORT).show();
                     return;
                     //当点击“保存”按钮时需要验证保存密码是否正确
                 } else if (!MD5Utils.MD5(originalPsw).equals(readPsw())) {
-                    Toast.makeText(ModifyPwdActivity.this, "输入的密码与原始密码不一致", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(ModifyPwdActivity.this, "输入的密码与原密码不一致", Toast.LENGTH_SHORT).show();
                     return;
                 } else if(MD5Utils.MD5(newPsw).equals(readPsw())){
-                    Toast.makeText(ModifyPwdActivity.this, "输入的新密码与原始密码不能一致", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(ModifyPwdActivity.this, "输入的新密码与原密码不能一致", Toast.LENGTH_SHORT).show();
                     return;
                 } else if (TextUtils.isEmpty(newPsw)) {
                     Toast.makeText(ModifyPwdActivity.this, "请输入新密码", Toast.LENGTH_SHORT).show();

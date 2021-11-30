@@ -15,7 +15,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.myaccount.utils.MD5Utils;
-
+// 注册页面
 public class RegisterActivity extends AppCompatActivity {
     private TextView tv_main_title;//标题
     private TextView tv_back;        //返回按钮

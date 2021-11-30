@@ -13,6 +13,7 @@ import android.widget.Toast;
 import com.example.myaccount.db.DBManager;
 import com.example.myaccount.utils.AnalysisUtils;
 
+// 设置模块
 public class SettingActivity extends AppCompatActivity {
     String username;
     @Override

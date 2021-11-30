@@ -22,6 +22,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
+// 分析统计模块
 public class MonthChartActivity extends AppCompatActivity {
     Button inBtn,outBtn;
     TextView dateTv,inTv,outTv;
