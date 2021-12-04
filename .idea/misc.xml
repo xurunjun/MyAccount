@@ -47,6 +47,49 @@
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/menu/activity_main_drawer.xml" value="0.19010416666666666" />
         <entry key="..\:/Desktop/King/MyAccount/app/src/main/res/menu/main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable-v24/go_back_selector.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable-v24/register_selector.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable-v24/shape_wihte_frame.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable/dialog_btn_bg.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable/go_back_selector.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable/main_morebtn_bg.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable/main_recordbtn_bg.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable/register_selector.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/drawable/shape_wihte_frame.xml" value="0.26614583333333336" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/activity_about.xml" value="0.140625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/activity_history.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/activity_login.xml" value="0.14628623188405798" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/activity_main.xml" value="0.14628623188405798" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/activity_modify_pwd.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/activity_month_chart.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/activity_record.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/activity_register.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/activity_search.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/activity_setting.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/app_bar_main.xml" value="0.14628623188405798" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/content_main.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/dialog_beizhu.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/dialog_budget.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/dialog_calendar.xml" value="0.14628623188405798" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/dialog_more.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/dialog_time.xml" value="0.14791666666666667" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/fragment_1.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/fragment_2.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/fragment_3.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/fragment_home.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/fragment_incom_chart.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/fragment_outcome.xml" value="0.14492753623188406" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/item_chartfrag_lv.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/item_chartfrag_top.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/item_dialogcal_hsv.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/item_mainlv.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/item_mainlv_top.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/item_recordfrag_gv.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/main_title_bar.xml" value="0.1890625" />
+        <entry key="..\:/Desktop/大三上/Android/期末/King/MyAccount/app/src/main/res/layout/nav_header_main.xml" value="0.1890625" />
       </map>
     </option>
   </component>
